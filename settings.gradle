@@ -1,0 +1,2 @@
+include ':bluetoothconnector'
+rootProject.name = "unity_android_bluetooth"
